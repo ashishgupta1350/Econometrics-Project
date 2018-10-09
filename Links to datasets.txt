@@ -1,1 +1,7 @@
 http://www.epwrfits.in/HealthStatewise.aspx?ModuleName=HealthStatusIndicators -- Health status of India
+
+http://www.epwrfits.in/HealthStatewise.aspx?ModuleName=Demography -- Population State wise India
+
+https://data.gov.in/catalog/state-level-consumer-price-index-ruralurban -- CPI or inflation state wise India
+
+https://datacatalog.worldbank.org/dataset/population-ranking -- World Population Google DataSet search!
