@@ -5,3 +5,10 @@ http://www.epwrfits.in/HealthStatewise.aspx?ModuleName=Demography -- Population 
 https://data.gov.in/catalog/state-level-consumer-price-index-ruralurban -- CPI or inflation state wise India
 
 https://datacatalog.worldbank.org/dataset/population-ranking -- World Population Google DataSet search!
+
+http://cmsindia.org/cms_ics18/CMS_ICS_2018_Report.pdf -- Percieved Corruption in India Data - CMS ICS Government of India
+
+http://inclusion.skoch.in/story/37/the-state(s)-of-corruption-337.html - Percieved Corruption India statewise
+
+https://www.nipfp.org.in/media/medialibrary/2016/04/WP_2016_164.pdf -- Percieved Freedom In India
+
