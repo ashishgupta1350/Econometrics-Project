@@ -1,0 +1,54 @@
+# Econometrics-Project
+Econometric Datasets and project report
+
+# About the Dataset
+
+### World Happiness Report Data for 2017 from their website:
+
+The first World Happiness Report was published in April, 2012, in support of the UN High Level Meeting on happiness and well-being. Since then the world has come a long way. Increasingly, happiness is considered to be the proper measure of social progress and the goal of public policy. In June 2016 the OECD committed itself “to redefine the growth narrative to put people’s well-being at the center of governments’ efforts”. In February 2017, the United Arab Emirates held a full-day World Happiness meeting, as part of the World Government Summit. Now on World Happiness Day, March 20th, we launch the World Happiness Report 2017, once again back at the United Nations, again published by the Sustainable Development Solutions Network, and now supported by a generous three-year grant from the Ernesto Illy Foundation. Some highlights are as follows.
+
+Source: Helliwell, J., Layard, R., & Sachs, J. (2017). World Happiness Report 2017, New York: Sustainable Development Solutions Network.
+
+##### Dictionary:
+
+![Dictionary](img/DictionaryData.png)
+
+##### Labeled Visualized Happiness Data Comparison of various countries on varous factors:
+
+![data1-image](img/Data1_Happiness.png)
+
+
+![data2-image](img/Data2_Happiness.png)
+
+
+![data3-image](img/Data3_Happiness.png)
+
+
+### Review of Regression and Correlation [ To be Completed ]
+
+What is Linear Regression?
+
+Why use Linear Regression?
+
+What is Correlation?
+
+Explain Regression with formulas
+    Cost function
+    Gradient descent step
+    Optimal Coefficients
+    Predicting the value
+    Accuracy Score
+    Plotting
+
+Explain Correlation with formula and graphs
+
+    Correlation Formula
+    Correlation Coeff
+    Correlation Values and meaning of a positive or negative correlation
+    Calculates a Pearson correlation coefficient and the p-value for testing non-correlation.
+
+The Pearson correlation coefficient measures the linear relationship between two datasets. Strictly speaking, Pearson’s correlation requires that each dataset be normally distributed. Like other correlation coefficients, this one varies between -1 and +1 with 0 implying no correlation. Correlations of -1 or +1 imply an exact linear relationship. Positive correlations imply that as x increases, so does y. Negative correlations imply that as x increases, y decreases.
+
+The p-value roughly indicates the probability of an uncorrelated system producing datasets that have a Pearson correlation at least as extreme as the one computed from these datasets. The p-values are not entirely reliable but are probably reasonable for datasets larger than 500 or so.
+
+
