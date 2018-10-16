@@ -11,20 +11,17 @@ Source: Helliwell, J., Layard, R., & Sachs, J. (2017). World Happiness Report 20
 
 ##### Dictionary:
 
-![Dictionary](img/DictionaryData.png)
+![dictionarydata](https://user-images.githubusercontent.com/24922775/47003112-27305a00-d14c-11e8-8a4c-51c764f0dd7f.png)
 
 ##### Labeled Visualized Happiness Data Comparison of various countries on varous factors:
 
-![data1-image](img/Data1_Happiness.png)
+![data1_happiness](https://user-images.githubusercontent.com/24922775/47003109-2697c380-d14c-11e8-8455-78b61eb27f0c.png)
 
+![data2_happiness](https://user-images.githubusercontent.com/24922775/47003110-2697c380-d14c-11e8-8436-6bafde7070d3.png)
 
-![data2-image](img/Data2_Happiness.png)
+![data3_happiness](https://user-images.githubusercontent.com/24922775/47003111-27305a00-d14c-11e8-8524-59e0bf1bc459.png)
 
-
-![data3-image](img/Data3_Happiness.png)
-
-
-### Review of Regression and Correlation [ To be Completed ]
+### Review of Regression and Correlation, What this report covers [ To be Completed ]
 
 What is Linear Regression?
 
